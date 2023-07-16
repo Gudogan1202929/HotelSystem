@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">AMNHotelSystem</string>
+    <string name="reservations">Reservations</string>
+    <string name="search">Search</string>
+    <string name="profile">profile</string>
+    <string name="favorites">favorites</string>
+    <string name="forgot_your_password">Forgot your password?</string>
+    <string name="login">Login</string>
+    <string name="enter_your_password">Enter your password</string>
+    <string name="please_enter_your_password_for">Please enter your password for</string>
+    <string name="password">Password</string>
+    <string name="hotel_name">Hotel Name</string>
+    <string name="enter_location">Type location here...</string>
+    <string name="save">Save</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="we_will_use_it_to_login_or_create_an_account_if_you_don_t_have">It will be used to login or register an account if you not have one</string>
+    <string name="email">Email</string>
+    <string name="name">Edit Name</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email_address">Email Address</string>
+    <string name="example_example_com">example@example.com</string>
+    <string name="details">Details</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="save_changes">Save</string>
+    <string name="create_password">Create Password</string>
+    <string name="password_must_be_8_characters_long_and_contain_a_number">Password must be 8 characters long and contain a number</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="reserve">Reserve</string>
+    <string name="go_ahead">Go Ahead</string>
+    <string name="login_or_register">Login or Register</string>
+    <string name="welcome">Welcome</string>
+    <string name="okay">Okay</string>
+    <string name="default_name">Default Name</string>
+    <string name="my_settings">My Settings</string>
+    <string name="my_account_profile">My Account/Profile</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="enter_country_or_city_name_here">Enter country or city name here</string>
+    <string name="start_and_end_dates">Start and End Dates</string>
+    <string name="some_hotel">Some Hotel</string>
+    <string name="price_for_couple_nights">price for couple nights</string>
+    <string name="price_for_x_days">Price for x days</string>
+    <string name="cancel">Cancel</string>
+    <string name="nada">Nada</string>
+    <string name="remember_me">Remember me</string>
+    <string-array name="gender_options">
+        <item>Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
